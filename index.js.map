@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["document.addEventListener('DOMContentLoaded', function () {\n    new Splide('#image-carousel').mount();\n});"],"names":[],"mappings":"ssBAAA,SAAS,iBAAiB,mBAAoB,UAAY,CACtD,IAAI,OAAO,iBAAiB,EAAE,OAClC,CAAC"}
