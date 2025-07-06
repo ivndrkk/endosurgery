@@ -1,0 +1,15 @@
+:root {
+    --bg: #fcfcfc;
+    --text-color: #000000;
+    --secondary-text: #4B5563;
+    --accent: #2463EB;
+    --card-bg: #EFF6FF;
+}
+
+.dark-theme {
+    --bg: #121212;
+    --text-color: #fcfcfc;
+    --secondary-text: #aaaaaa;
+    --accent: #3b82f6;
+    --card-bg: #1e1e1e;
+}

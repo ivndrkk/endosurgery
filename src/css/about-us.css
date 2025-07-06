@@ -20,12 +20,12 @@
     font-weight: 400;
     font-size: 16px;
     margin-bottom: 32px;
-    color: #4B5563;
+    color: var(--secondary-text);
 }
 
 .about-us-btn{
     padding: 10px 20px;
-    background-color: #2463EB;
+    background-color: var(--accent);
     color: #fcfcfc;
     border-radius: 6px;
 }
@@ -53,12 +53,12 @@
 .about-us-grid div{
     padding: 26px 22px;
     box-sizing: border-box;
-    background-color: #EFF6FF;
+    background-color: var(--card-bg);
     border-radius: 7px;
 }
 
 .about-us-grid div a{
-    color: #2463EB;
+    color: var(--accent);
 }
 
 .about-us-grid div h3{
@@ -68,7 +68,7 @@
 
 .about-us-grid div p{
     margin-bottom: 15px;
-    color: #4B5563;
+    color: var(--secondary-text);
     font-weight: 400;
     font-size: 14px;
 }
@@ -78,7 +78,7 @@
     height: 32px;
     width: 32px;
     stroke-width: 1;
-    stroke: #2463EB;
+    stroke: var(--accent);
     fill: none; 
     margin-bottom: 8px;
 }

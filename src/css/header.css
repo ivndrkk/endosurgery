@@ -1,8 +1,9 @@
 header{
-    background-color: #fcfcfc;
+    background-color: var(--bg);
     height: 70px;
     padding-top: 8px;
     box-sizing: border-box;
+    color: var(--text-color);
 }
 
 header .container{
@@ -29,4 +30,13 @@ header nav ul{
     font-family: 'April Fatface';
     text-transform: capitalize;
     font-size: 28px;
+}
+
+.theme-btn {
+    padding: 2px 20px;
+    background-color: var(--accent);
+    color: #fcfcfc;
+    border-radius: 6px;
+    outline: none;
+    border: none;
 }

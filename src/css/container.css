@@ -1,4 +1,10 @@
+body{
+  background-color: var(--bg);
+  color: var(--text-color);
+}
+
 /* Styles for Mobile devices */
+
 .container {
   min-width: 320px;
   max-width: 375px;

@@ -1,13 +1,9 @@
-/**
-  |============================
-  | include css partials with
-  | default @import url()
-  |============================
-*/
 /*Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
+/* CSS Variables */
+@import url('./variables.css');
 
 /* Common styles */
 @import url('./reset.css');
